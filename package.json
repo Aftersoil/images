@@ -1,0 +1,21 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "description": "Aftersoil 静态文件存储位置",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "bash deploy.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aftersoil/images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aftersoil/images/issues"
+  },
+  "homepage": "https://github.com/Aftersoil/images#readme"
+}
